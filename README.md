@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nothing Protocol Dev</h1>
-<h3 align="center">I am to help crypto become a safer place for investors and to become more community focused.</h3>
+<h3 align="center">I aim to help crypto become a safer place for investors and to become more community focused.</h3>
 
 - 🔭 I’m currently working on [Nothing Protocol](https://www.nothing-protocol.com/)
 
