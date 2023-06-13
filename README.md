@@ -5,7 +5,6 @@
 
 - 🌱 I’m good at **NextJs, Solidity, React, Javascript, TailwindCSS, ChakraUI and More.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
